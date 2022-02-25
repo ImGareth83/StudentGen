@@ -14,7 +14,7 @@ Prepare the program to handle wrong data format insertion.
 ## How to run it
 1) git clone https://github.com/ImGareth83/StudentGen.git
 
-2) Execute the follow at StudenGen root folder:
+2) Execute the follow at StudentGen root folder:
 
 java -cp ./out/production/StudentGen/ com.generation.java.Main
 
@@ -28,11 +28,11 @@ Alternatively, open in IntelliJ and execute directly from there.
 
 ## Reflections
 
-###What did i like about this project?
+### What did i like about this project?
 
 I love this project mainly because we are tested on OO concepts. The assessment was well documented with questions and a UML diagram. It made the assessment a lot easier to code. 
 
-###What did i struggle with in this project?
+### What did i struggle with in this project?
 
 3 issues i found during the assessment. 
 
@@ -42,7 +42,7 @@ Another issue i had was rename the project and folder name to StudentGen. i rese
 
 Last issue was using IntelliJ's Git feature to upload the source codes to github. i youtubed some videoes and managed to do so afterwards.
 
-###What would you make your experience with this assessment better?
+### What would you make your experience with this assessment better?
 
 In my opinion, the assessment has been good especially the guidance from our lecturer, Jean. Anymore is equivalent to giving out obvious answers. 
 
