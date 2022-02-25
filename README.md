@@ -12,13 +12,15 @@ Prepare the program to handle wrong data format insertion.
 [Part 2] Implementing the Student and StudentService missing features
 
 ## How to run it
-git clone https://github.com/ImGareth83/StudentGen.git
+1) git clone https://github.com/ImGareth83/StudentGen.git
 
-ideally, it should be open in IntelliJ and execute directly from there.
+2) Execute the follow at StudenGen root folder:
 
-Otherwise, execute using the java command from the command line
+java -cp ./out/production/StudentGen/ com.generation.java.Main
 
-java com.generation.java.Main 
+3) Greater convenience, execute runStudentGen.bash on commandline.
+
+Alternatively, open in IntelliJ and execute directly from there. 
 
 ## Built with
 
