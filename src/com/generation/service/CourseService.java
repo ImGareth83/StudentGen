@@ -57,10 +57,9 @@ public class CourseService
     public void showSummary()
     {
         System.out.println( "Available Courses:" );
-        for ( String key : courses.keySet() )
+        for ( Course c: courses.values())
         {
-            Course course = courses.get( key );
-            System.out.println( course );
+            System.out.println( c );
         }
     }
 }
